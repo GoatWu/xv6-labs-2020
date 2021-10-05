@@ -20,3 +20,8 @@ myapi.key
 xv6.out*
 .vagrant/
 submissions/
+._.git
+.___pycache__
+._xv6.out
+._xv6.out.sleep
+._xv6.out.sleep_no_args
